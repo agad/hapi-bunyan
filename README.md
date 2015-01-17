@@ -1,6 +1,8 @@
 # Hapi Bunyan
 
-This a simple [Bunyan][bunyan] plugin for Hapi.
+This a branch of the simple [Bunyan][bunyan] plugin for Hapi.
+
+Purpose of the branch is to add app specific values in logs.
 
 ## Documentation
 
